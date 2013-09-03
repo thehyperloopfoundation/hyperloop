@@ -1,0 +1,1 @@
+More expansion on the control mechanism for Hyperloop capsules, including attitude thruster or control moment gyros.

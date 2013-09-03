@@ -1,0 +1,1 @@
+Sub-scale testing based on a further optimized design to demonstrate the physics of Hyperloop.
