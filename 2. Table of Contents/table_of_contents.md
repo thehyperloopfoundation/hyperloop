@@ -1,23 +1,23 @@
 # Table of Contents
 
-1. Abstract
-2. Table of Contents 
-3. Background 
-4. Hyperloop Transportation System
-4.1. Capsule
-4.1.1. Geometry 
-4.1.2. Interior
-4.1.3. Compressor
-4.1.4. Suspension
-4.1.5. Onboard Power  
-4.1.6. Propulsion 
-4.1.7. Cost
-4.2. Tube 
-4.2.1. Geometry 
-4.2.2. Tube Construction
-4.2.3. Pylons and Tunnels
-4.2.4. Station Construction
-4.2.5. Cost
+- 1. Abstract
+- 2. Table of Contents 
+- 3. Background 
+- 4. Hyperloop Transportation System
+- 4.1. Capsule
+- 4.1.1. Geometry 
+- 4.1.2. Interior
+- 4.1.3. Compressor
+- 4.1.4. Suspension
+- 4.1.5. Onboard Power  
+- 4.1.6. Propulsion 
+- 4.1.7. Cost
+- 4.2. Tube 
+- 4.2.1. Geometry 
+- 4.2.2. Tube Construction
+- 4.2.3. Pylons and Tunnels
+- 4.2.4. Station Construction
+- 4.2.5. Cost
 4.3. Propulsion 
 4.3.1. Capsule Components (Rotor) 
 4.3.2. Tube Components (Stator)
